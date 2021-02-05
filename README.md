@@ -1,2 +1,0 @@
-# Coursera-Assignments
-For Hosting
